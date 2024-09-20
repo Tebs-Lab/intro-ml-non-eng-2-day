@@ -15,7 +15,7 @@ Consider the following progression of prompts and results made using DALL-E 2 an
 
 > A corgi
 
-![](assets/corgie1.png)
+![](assets/corgi1.png)
 
 > a corgi with high depth of field
 

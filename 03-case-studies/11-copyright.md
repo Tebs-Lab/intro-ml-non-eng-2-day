@@ -4,7 +4,7 @@ Generative Models are known to sometimes return exact, or nearly exact, copies o
 
 > Ultimately, we discovered that a prompt of just a single word (not counting routine parameters) that’s not specific to any film, character, or actor yielded apparently infringing content: that word was “screencap.” The images below were created with that prompt.
 
-![](assets/a-grid-of-six-images-created-by-midjourney-showing-famous-pop-culture-characters.webp)
+![](../assets/a-grid-of-six-images-created-by-midjourney-showing-famous-pop-culture-characters.webp)
 
 The aforementioned NYTimes lawsuit also contains examples of ChatGPT producing verbatim copies of NYTimes articles. 
 
