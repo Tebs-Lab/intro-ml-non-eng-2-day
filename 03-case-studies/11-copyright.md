@@ -1,6 +1,6 @@
 # Regurgitation, Overfitting, and Copyright
 
-Generative Models are known to sometimes return exact, or nearly exact, copies of their training data inputs. Here's an example from IEE Spectrum: (https://spectrum.ieee.org/midjourney-copyright)[https://spectrum.ieee.org/midjourney-copyright]
+Generative Models are known to sometimes return exact, or nearly exact, copies of their training data inputs. Here's an example from IEE Spectrum: [https://spectrum.ieee.org/midjourney-copyright](https://spectrum.ieee.org/midjourney-copyright)
 
 > Ultimately, we discovered that a prompt of just a single word (not counting routine parameters) that’s not specific to any film, character, or actor yielded apparently infringing content: that word was “screencap.” The images below were created with that prompt.
 
