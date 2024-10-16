@@ -1,6 +1,9 @@
 # Hallucination
 
-Sometimes generative models make stuff up. "Hallucination" has become the term of art used to describe this phenomenon. Sometimes hallucinations are a big problem, here's a quote from a lawsuit filed by The New York Times vs Microsoft and OpenAI [https://www.bakerlaw.com/new-york-times-v-microsoft/](https://www.bakerlaw.com/new-york-times-v-microsoft/)
+Sometimes generative models make stuff up. "Hallucination" has become the term of art used to describe this phenomenon. Sometimes hallucinations are a big problem, here's a quote from a lawsuit filed by The New York Times vs Microsoft and OpenAI 
+
+* Selected documents from the case [https://www.bakerlaw.com/new-york-times-v-microsoft/](https://www.bakerlaw.com/new-york-times-v-microsoft/)
+* The complaint [https://admin.bakerlaw.com/wp-content/uploads/2024/01/ECF-1-Complaint-1-1.pdf](https://admin.bakerlaw.com/wp-content/uploads/2024/01/ECF-1-Complaint-1-1.pdf)
 
 > Defendants are aware that their GPT-based products produce inaccurate content that is falsely attributed to The Times and yet continue to profit commercially from creating and attributing inaccurate content to The Times. As such, Defendants have intentionally violated 15 U.S.C § 1125(c).
 
