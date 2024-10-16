@@ -119,14 +119,14 @@ A bit of background helps us understand both how we got here, and why people are
 ### Enormous Computers and Efficient Computation Methods Yield 
 ### Plus, "Generative" Models Emerge
 
-* 2017, "The Bitter Lesson" published by Richard Sutton
-    * Researchers all but abandon all methods that aren't Learning or Search. 
-    * Researchers focus on clever math/algorithmic tricks that improve the speed of specific kinds of calculations.
-    * Researchers focus on representing data in ways that can take advantage of those speed improvements.
 * 2017, "attention is all you need," introduces the Transformer architecture
     * Basically instant obliterates every SOTA result in NLP by embracing the bitter lesson
     * Previous SOTA (Recurrent Neural Networks) could not take advantage of GPU hardware, Attention/Transformers can. Boom. 
 * 2018, OpenAI releases GPT-1
+* **2019, "The Bitter Lesson" published by Richard Sutton**
+    * Researchers all but abandon all methods that aren't Learning or Search. 
+    * Researchers focus on clever math/algorithmic tricks that improve the speed of specific kinds of calculations.
+    * Researchers focus on representing data in ways that can take advantage of those speed improvements.
 * 2020, GPT-3
 * 2021, DALL-E-1 (Diffusion Models supplant GANs)
 * 2022, ChatGPT
